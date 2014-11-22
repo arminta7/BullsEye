@@ -10,22 +10,26 @@
 	<string>BullsEye</string>
 	<key>IDESourceControlProjectOriginsDictionary</key>
 	<dict>
+		<key>08AD2C3F0F36DB44A3C7A2C381C6825234AC31A2</key>
+		<string>https://github.com/arminta7/BullsEye.git</string>
 		<key>DF1B83DFC03DE5A66C95C8DC524E36D6675BB74E</key>
 		<string>https://github.com/arminta7/xcode.git</string>
 	</dict>
 	<key>IDESourceControlProjectPath</key>
-	<string>RayWenderlich/BullsEye/BullsEye.xcodeproj</string>
+	<string>BullsEye.xcodeproj</string>
 	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
 	<dict>
+		<key>08AD2C3F0F36DB44A3C7A2C381C6825234AC31A2</key>
+		<string>../..</string>
 		<key>DF1B83DFC03DE5A66C95C8DC524E36D6675BB74E</key>
-		<string>../../../..</string>
+		<string>../../..</string>
 	</dict>
 	<key>IDESourceControlProjectURL</key>
-	<string>https://github.com/arminta7/xcode.git</string>
+	<string>https://github.com/arminta7/BullsEye.git</string>
 	<key>IDESourceControlProjectVersion</key>
 	<integer>111</integer>
 	<key>IDESourceControlProjectWCCIdentifier</key>
-	<string>DF1B83DFC03DE5A66C95C8DC524E36D6675BB74E</string>
+	<string>08AD2C3F0F36DB44A3C7A2C381C6825234AC31A2</string>
 	<key>IDESourceControlProjectWCConfigurations</key>
 	<array>
 		<dict>
@@ -34,7 +38,15 @@
 			<key>IDESourceControlWCCIdentifierKey</key>
 			<string>DF1B83DFC03DE5A66C95C8DC524E36D6675BB74E</string>
 			<key>IDESourceControlWCCName</key>
-			<string>Coding</string>
+			<string></string>
+		</dict>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>08AD2C3F0F36DB44A3C7A2C381C6825234AC31A2</string>
+			<key>IDESourceControlWCCName</key>
+			<string>BullsEye</string>
 		</dict>
 	</array>
 </dict>
